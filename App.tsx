@@ -70,6 +70,9 @@ const styles = StyleSheet.create({
   highlight: {
     fontWeight: '700',
   },
+  backgroundStyle: {
+    backgroundColor: 'white'
+  }
 });
 
 export default App;
